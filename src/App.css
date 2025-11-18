@@ -1,0 +1,12 @@
+.each-table-dynmaic{
+    display: flex;
+    gap: 20px;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.Top-bar-dynmaic{
+    display: flex;
+    gap: 20px;
+     margin-bottom: 40px;
+}
