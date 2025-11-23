@@ -4,6 +4,8 @@ import DynamicFilter from './Components/DynamicFilter'
 import EventOdd from './Components/EventOdd'
 import GuessLower from './Components/Guesslowerhigher'
 import Modal from './Components/Modal'
+import Sortablelist from './Components/Sortablelist'
+import StopWatch from './Components/StopWatch'
 
 function App() {
  
@@ -13,7 +15,9 @@ function App() {
     {/* <DynamicFilter/> */}
     {/* <GuessLower/> */}
     {/* <EventOdd/> */}
-    <Modal/>
+    {/* <Modal/> */}
+    {/* <StopWatch/> */}
+    <Sortablelist/>
     </>
   )
 }
