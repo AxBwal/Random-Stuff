@@ -1,6 +1,7 @@
 
 import './App.css'
 import Accordion from './Components/Accordion'
+import Debounce from './Components/Debounce'
 import DynamicFilter from './Components/DynamicFilter'
 import EventOdd from './Components/EventOdd'
 import GuessLower from './Components/Guesslowerhigher'
@@ -23,7 +24,8 @@ function App() {
     {/* <Sortablelist/> */}
     {/* <Accordion/> */}
     {/* <PreviousCounter/> */}
-    <Hello/>
+    {/* <Hello/> */}
+    <Debounce/>
     </>
   )
 }
