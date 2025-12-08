@@ -10,6 +10,7 @@ import Modal from './Components/Modal'
 import PreviousCounter from './Components/Previouscounter'
 import Sortablelist from './Components/Sortablelist'
 import StopWatch from './Components/StopWatch'
+import Themetoggle from './Components/Themetoggle'
 
 function App() {
  
@@ -25,7 +26,8 @@ function App() {
     {/* <Accordion/> */}
     {/* <PreviousCounter/> */}
     {/* <Hello/> */}
-    <Debounce/>
+    {/* <Debounce/> */}
+    <Themetoggle/>
     </>
   )
 }

@@ -2,3 +2,12 @@
     color: white;
     background-color: black;
 } */
+
+.light-themes {
+  color: black;
+  background-color: white;
+}
+.Dark-themes {
+  color: white;
+  background-color: black;
+}
